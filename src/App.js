@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import ContactComponent from './components/pure/contact';
 import ContactListComponent from './components/container/contact_list';
 
 function App() {
